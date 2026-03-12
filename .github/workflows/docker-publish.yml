@@ -20,4 +20,5 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: your-docker-username/your-repo-name:latest
+          # secretes.DOCKER_USERNAME is the username of the Docker Hub account, and github.event.repository.name is the name of the repository in GitHub, which will be used as the image name in Docker Hub
+          tags: ${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:latest
