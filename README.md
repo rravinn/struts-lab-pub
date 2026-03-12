@@ -1,9 +1,8 @@
 # 🚀 Struts Lab
 > A broken, vulnerable struts2 app
 
-[![Java Version](https://shields.io)](https://oracle.com)
-[![Struts Version](http://shields.io)](https://apache.org)
-[![License: MIT](https://shields.io)](https://opensource.org)
+[![Java Version](https://img.shields.io/badge/Java%2011-grey?style=for-the-badge&logo=java)]
+[![Struts Version](https://img.shields.io/badge/Struts2-grey?style=for-the-badge&logo=struts)]
 
 ---
 
