@@ -1,5 +1,3 @@
-#This files purpose is to automate container publishing to Docker
-#Will need to change the credentials in "with" when I get the personal access token (PAT)
 #as it is, this file will only be triggered when a push occurs on main which I may decide to change
 #because for testing, I need faster builds, and this whole implementation leads to long build times
 #because it downloads all dependencies mentioned in Dockerfile
