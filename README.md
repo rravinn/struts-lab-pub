@@ -1,8 +1,8 @@
 # 🚀 Struts Lab
 > A broken, vulnerable struts2 app
 
-[![Java Version](https://img.shields.io/badge/Java%2011-grey?style=for-the-badge&logo=java)]
-[![Struts Version](https://img.shields.io/badge/Struts2-grey?style=for-the-badge&logo=struts)]
+[![Java Version](https://img.shields.io/badge/Java 11-orange?style=for-the-badge&logo=openjdk)]
+[![Struts Version](https://img.shields.io/badge/Struts 2-grey?style=for-the-badge&logo=struts)]
 
 ---
 
