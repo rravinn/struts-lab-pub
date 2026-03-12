@@ -4,7 +4,7 @@
 name: Build and Push Docker
 on:
   push:
-    branches: [ "main" ]  Triggers only when you push to main
+    branches: [ "main" ] #Triggers only when push to main
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
