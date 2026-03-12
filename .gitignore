@@ -1,0 +1,62 @@
+
+
+
+#Boilerplate .gitignore for Java projects, with some IDE-specific ignores added in. Adjust as necessary for your project.
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+# Build tool directories (Maven/Gradle)
+target/
+.gradle/
+build/
+
+# IDE Specifics #
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+.settings/
+.loadpath
+.project
+.classpath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Struts/Web Specific
+# Do NOT ignore struts.xml or web.xml as these are core config
+# but ignore temporary deployment folders
+.deployables/
+.wtpmodules/
