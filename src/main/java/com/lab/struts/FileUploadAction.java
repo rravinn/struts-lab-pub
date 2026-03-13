@@ -16,7 +16,7 @@ public class FileUploadAction extends ActionSupport {
 
   private File uploadedFile;
   private String uploadedFileName;
-  private String localDirectory = "C:\\temp";
+  private String localDirectory = "uploads";
 
   public void setUploadedFile(File file) {
     uploadedFile = file;
